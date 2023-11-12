@@ -21,7 +21,7 @@ def endpoint_check(url):
         print(f"Connection error occurred with {url}.")
         return False, 0
 
-endpoints = ["https://38.d.itsby.design/qbittorrent/", "https://gmail.com"]
+endpoints = ["https:/Redacted.com/qbittorrent/", "https://gmail.com"]
 
 def monitor_endpoints(endpoints):
     sleep_duration = 60
